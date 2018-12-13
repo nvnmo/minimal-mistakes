@@ -41,5 +41,13 @@
        });
     </script>
 {% endif %}
+
+{% if page.mermaid == true %}
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.2/mermaid.min.js">
+</script>
+{% endif %}
+
 {% include analytics.html %}
+
 {% include /comments-providers/scripts.html %}
