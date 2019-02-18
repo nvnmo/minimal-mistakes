@@ -106,6 +106,7 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
+  landingbio       : "I am an amazing person. bio"
   location         : "Somewhere"
   # for the landing page
   job              : Web Developer
