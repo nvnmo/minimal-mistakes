@@ -191,7 +191,12 @@
 
     &.site-title {
       margin-left: 0;
+      text-decoration: unset;
     }
+
+    text-transform: lowercase;
+    font-family: "Montserrat","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
+    font-size: smaller;
   }
 
   &__toggle {
